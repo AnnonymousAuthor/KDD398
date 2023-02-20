@@ -1,2 +1,2 @@
 # KDD398
-This repo is used to house The Ensemble Approach of Column Generation for Solving Cutting Stock Problems code, the code will be uploaded after the review
+This repo is used to hold The Ensemble Approach of Column Generation for Solving Cutting Stock Problems code, the code will be uploaded before February 25th.
